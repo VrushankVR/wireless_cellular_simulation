@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+readpdf.py
+test_limits.py
+pdf_text.txt
+ENTS656 Project.pdf
