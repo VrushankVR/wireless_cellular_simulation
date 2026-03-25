@@ -19,6 +19,7 @@ The system iteratively calculates and models up to 1800 simultaneous users loggi
 - **Improved System (40W)**: Power increases overcome signal degradation gaps and serve approximately ~1200 concurrent users before channel capacity triggers the 2% blocking threshold.
 
 Visual plots mapping the Grade of Service over simulated mobile station scaling are included:
+- `user_placement.png`
 - `blocking_probability.png`
 - `dropping_probability.png`
 

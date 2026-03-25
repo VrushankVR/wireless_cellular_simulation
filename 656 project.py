@@ -223,6 +223,7 @@ def main():
 
     # cell diagram
     plotcell(80)
+    plt.savefig("user_placement.png")
 
     # final plots
     plt.figure()
